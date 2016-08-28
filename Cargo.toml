@@ -1,0 +1,7 @@
+[package]
+name = "libradon"
+version = "0.1.0"
+authors = ["Oliver Goroll <goroll.oliver@gmail.com>"]
+
+[dependencies]
+num = "*"
